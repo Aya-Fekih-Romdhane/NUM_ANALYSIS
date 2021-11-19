@@ -22,7 +22,7 @@
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
 [oct]: https://www.gnu.org/software/octave/index
-[TP1]: https://github.com/nevermind78/NUM_ANALYSIS/tree/master/TP1
+[TP1]: https://github.com/Aya-Fekih-Romdhane/NUM_ANALYSIS/tree/main/TP1
 [TP2]: https://github.com/nevermind78/NUM_ANALYSIS/tree/master/TP2
 [TP3]: https://github.com/nevermind78/NUM_ANALYSIS/tree/main/TP3
 [cdi]: https://learn.datacamp.com/courses/writing-efficient-python-code
